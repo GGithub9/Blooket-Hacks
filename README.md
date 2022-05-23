@@ -1,6 +1,9 @@
 # Blooket-Hacks
 Blooket hacks and tools. Credit to certain people.
 *No i did not make any of these, credits go to authors..*
+* Authors:
+    * glixzzy (taken down)
+    * qaiik ([blkt-reader](https://github.com/qaiik/blkt-reader))
 **This is also mainly for my friends**
 
 # How to use these
